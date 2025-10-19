@@ -14,6 +14,9 @@ Use the camera's timer function for hands-free or group photos. Follow these ste
 5.Wait for the 10-second countdown to finish. The camera captures the image automatically.
 
 _**Important:**_ The timer often resets after one use. Repeat steps 2 and 3 for subsequent timed photos.
-![Diagram.drawio](c:\Users\mahan\OneDrive\Documents\Diagram.drawio.png)
+
+![alt text](Diagram.drawio.png)
+
+
 
 
